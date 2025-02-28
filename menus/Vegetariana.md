@@ -7,3 +7,8 @@ La cocina Vegetariana es famosa por sus sabores frescos y auténticos, basados e
 - **Pizza Vegetariana**: Masa fina cubierta con tomate, mozzarella y albahaca.
 - **Pasta Vegetariana**: Espaguetis en salsa de huevo, queso pecorino, panceta y pimienta.
 - **Risotto Vegetariano*: Arroz cremoso con setas.
+
+## Bebidas Recomendadas
+- Vino tinto Chianti.
+- Agua con gas.
+- Limoncello como digestivo.
