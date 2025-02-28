@@ -6,3 +6,8 @@ La cocina de postres es famosa por sus sabores frescos y auténticos, basados en
 ## Platos Principales
 - Gelatina: un postre sencillo y de buen sabor
 - Tiramisu: un postre a base de chocolate
+
+## Bebidas Recomendadas
+- Vino tinto Chianti.
+- Agua con gas.
+- Limoncello como digestivo.
