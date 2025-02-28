@@ -7,3 +7,8 @@ La cocina Mediterranea es famosa por sus sabores frescos y auténticos, basados 
 - **Pizza Mediterranea**: Masa fina cubierta con tomate, mozzarella y albahaca.
 - **Pasta Mediterranea**: Espaguetis en salsa de huevo, queso pecorino, panceta y pimienta.
 - **Risotto Mediterranea*: Arroz cremoso con setas.
+
+## Bebidas Recomendadas
+- Vino tinto Chianti Mediterraneo.
+- Agua con gas Mediterraneo.
+- Limoncello como digestivo Mediterraneo.
