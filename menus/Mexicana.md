@@ -12,3 +12,7 @@ La cocina mexicana es famosa por sus sabores frescos y auténticos, basados en i
 - Vino tinto Chianti Mexicano.
 - Agua con gas Mexicano.
 - Limoncello como digestivo Mexicano.
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con chiles para una experiencia completa.
