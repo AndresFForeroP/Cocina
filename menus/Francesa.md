@@ -7,3 +7,8 @@ La cocina francesa es famosa por sus sabores frescos y auténticos, basados en i
 - **Pizza Francesa*: Masa fina cubierta con tomate, mozzarella y albahaca.
 - **Pasta Francesa**: Espaguetis en salsa de huevo, queso pecorino, panceta y pimienta.
 - **Risotto Frances*: Arroz cremoso con setas.
+
+## Bebidas Recomendadas
+- Vino tinto Chiantin frances.
+- Agua con gas frances.
+- Limoncello como digestivo frances.
