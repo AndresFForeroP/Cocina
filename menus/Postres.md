@@ -1,4 +1,8 @@
 # Menú Cocina Postres
 
 ## Descripción
-La cocina de postres es famosa por sus sabores frescos y auténticos, basados en ingredientes simples como tomate, ajo, aceite de oliva y hierbas.
+La cocina de postres es famosa por sus sabores frescos y auténticos, basados en ingredientes simples como azucar,harina y chocolate entre otros.
+
+## Platos Principales
+- Gelatina: un postre sencillo y de buen sabor
+- Tiramisu: un postre a base de chocolate
