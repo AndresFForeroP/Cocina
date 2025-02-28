@@ -7,3 +7,8 @@ La cocina India es famosa por sus sabores frescos y auténticos, basados en ingr
 - **Pizza India**: Masa fina cubierta con tomate, mozzarella y albahaca.
 - **Pasta India**: Espaguetis en salsa de huevo, queso pecorino, panceta y pimienta.
 - **Risotto Indio*: Arroz cremoso con setas.
+
+## Bebidas Recomendadas
+- Vino tinto Chianti indio.
+- Agua con gas india.
+- Limoncello como digestivo indio.
