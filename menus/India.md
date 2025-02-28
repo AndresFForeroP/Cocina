@@ -12,3 +12,7 @@ La cocina India es famosa por sus sabores frescos y auténticos, basados en ingr
 - Vino tinto Chianti indio.
 - Agua con gas india.
 - Limoncello como digestivo indio.
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
