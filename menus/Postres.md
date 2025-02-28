@@ -11,3 +11,7 @@ La cocina de postres es famosa por sus sabores frescos y auténticos, basados en
 - Vino tinto Chianti.
 - Agua con gas.
 - Limoncello como digestivo.
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con galletas para una experiencia completa.
